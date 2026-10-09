@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Image unavailable">
+  <rect width="400" height="400" fill="#15151c"/>
+  <g fill="none" stroke="#3a3a4a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="140" y="150" width="120" height="96" rx="12"/>
+    <circle cx="176" cy="184" r="10"/>
+    <path d="m150 236 34-32 22 20 20-18 26 28"/>
+  </g>
+  <text x="200" y="282" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#4a4a5c">IMAGE UNAVAILABLE</text>
+</svg>
